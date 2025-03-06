@@ -1,0 +1,71 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 2,
+  "results": [
+    {
+      "id": 1,
+      "url": "https://www.nytimes.com/2024/03/06/test-article-1",
+      "title": "Test Article 1",
+      "abstract": "This is a test article abstract 1",
+      "byline": "By Test Author 1",
+      "published_date": "2024-03-06",
+      "section": "Technology",
+      "media": [
+        {
+          "type": "image",
+          "caption": "Test image caption 1",
+          "media-metadata": [
+            {
+              "url": "https://example.com/image1-small.jpg",
+              "width": 75,
+              "height": 75
+            },
+            {
+              "url": "https://example.com/image1-medium.jpg",
+              "width": 440,
+              "height": 293
+            },
+            {
+              "url": "https://example.com/image1-large.jpg",
+              "width": 640,
+              "height": 427
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.nytimes.com/2024/03/06/test-article-2",
+      "title": "Test Article 2",
+      "abstract": "This is a test article abstract 2",
+      "byline": "By Test Author 2",
+      "published_date": "2024-03-06",
+      "section": "Science",
+      "media": [
+        {
+          "type": "image",
+          "caption": "Test image caption 2",
+          "media-metadata": [
+            {
+              "url": "https://example.com/image2-small.jpg",
+              "width": 75,
+              "height": 75
+            },
+            {
+              "url": "https://example.com/image2-medium.jpg",
+              "width": 440,
+              "height": 293
+            },
+            {
+              "url": "https://example.com/image2-large.jpg",
+              "width": 640,
+              "height": 427
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
