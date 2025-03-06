@@ -23,7 +23,7 @@ A React application that displays the most viewed articles from The New York Tim
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:muhammadatifkhan03/nytimes-articles.git
    cd nytimes-api
    ```
 
